@@ -1,1 +1,67 @@
 
+
+{
+  "database": {
+    "entries": [
+      {
+        "id": ,
+        "number": ,
+        "timestamp": "",
+        "user": "",
+        "status": ""
+      },
+      {
+        "id": ,
+        "number": ,
+        "timestamp": "",
+        "user": "",
+        "status": ""
+      },
+      {
+        "id": ,
+        "number": ,
+        "timestamp": "",
+        "user": "",
+        "status": ""
+      }
+    ],
+    "metadata": {
+      "version": "1.0.0",
+      "created": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T14:15:00Z",
+      "totalEntries": 3
+    },
+    "config": {
+      "maxEntries": 1000,
+      "autoBackup": true,
+      "githubSync": true,
+      "theme": "neon"
+    }
+  },
+  "users": [
+    {
+      "username": "",
+      "role": "",
+      "lastLogin": "",
+      "permissions": [""]
+    },
+    {
+      "username": "",
+      "role": "",
+      "lastLogin": "",
+      "permissions": [""]
+    },
+    {
+      "username": "",
+      "role": "",
+      "lastLogin": "",
+      "permissions": [""]
+    }
+  ],
+  "github": {
+    "connected": ,
+    "repository": "",
+    "lastSync": "",
+    "status": ""
+  }
+}
